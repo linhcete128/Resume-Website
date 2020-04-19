@@ -1,2 +1,2 @@
-# Resume-Website
-Complete website resume design using HTML and CSS
+# TestGit
+This is for testing Git Bash.
